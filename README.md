@@ -1,6 +1,6 @@
 # Image Search Options
 
-Fork of [Image Search Options](https://saucenao.com/tools/) extensions to use with manifest V3.
+Fork of [Image Search Options](https://saucenao.com/tools/) extension to use with manifest V3.
 
 [Image Search Options](https://saucenao.com/tools/) provides a set of highly customizable reverse image search context menu options.
 
